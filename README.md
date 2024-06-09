@@ -1,6 +1,8 @@
 ![Nethunter](https://i.ibb.co/fdqDBRh/Soft-Minimalist-Download-Multiple-Devices-Mockup-20240609-151137-0000.png)
 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/godTspeed)
 
+[![Telegram add list](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/addlist/g2eR29-lI4M1ZmVl)
 # Kali-nethunter-termux
 Kali NetHunter on Termux for Android is a mobile penetration testing platform that lets users run Kali Linux tools on their Android devices without root access. Combining Termux’s Linux environment with NetHunter’s capabilities, it provides a portable, powerful toolset for security assessments and testing on the go.
 
