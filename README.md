@@ -1,8 +1,20 @@
 ![Nethunter](https://i.ibb.co/fdqDBRh/Soft-Minimalist-Download-Multiple-Devices-Mockup-20240609-151137-0000.png)
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/godTspeed)
-
 [![Telegram add list](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/addlist/g2eR29-lI4M1ZmVl)
+
+### Contributors
+
+- [White9shadow](https://white9shadow.github.io)
+- [Bestmagiskmodule](https://bestmagiskmodule.github.io)
+- [Godtspeed](https://godtspeed.xyz)
+- [Magiskflash](https://magiskflash.com)
+
+Special thanks to the contributors for their valuable contributions to the Kali Nethunter and Termux ecosystem.
+# [Donate](https://ko-fi.com/revws)
+If you found this project helpful and would like to support its development, consider [Donate](https://ko-fi.com/revws). Your contribution helps to maintain and improve the project, ensuring continued updates and support for users like you. Thank you for your support!
+
+
 # Kali-nethunter-termux
 Kali NetHunter on Termux for Android is a mobile penetration testing platform that lets users run Kali Linux tools on their Android devices without root access. Combining Termux’s Linux environment with NetHunter’s capabilities, it provides a portable, powerful toolset for security assessments and testing on the go.
 
@@ -121,3 +133,35 @@ If you encounter the "Process Completed (Signal 9)" error, follow the instructio
 
 
 Kali Nethunter combined with Termux offers a powerful platform for security professionals and enthusiasts to perform advanced security tasks directly from their Android devices. Whether you're a seasoned penetration tester or just getting started with ethical hacking, the combination of Nethunter and Termux provides a flexible and customizable environment to meet your needs. So why wait? Unleash the full potential of your Android device with Kali Nethunter and Termux today!
+
+
+
+
+### Frequently Asked Questions (FAQs)
+
+#### 1. Can I install Kali Nethunter on any Android device?
+
+Yes, Kali Nethunter can be installed on most Android devices. However, it may require rooting your device and unlocking the bootloader, which can void your warranty and potentially brick your device if not done correctly. It's essential to research your specific device model and follow the installation instructions carefully.
+
+#### 2. Is it safe to use Kali Nethunter for ethical hacking purposes?
+
+Kali Nethunter is designed for penetration testing and ethical hacking purposes. However, it's crucial to use it responsibly and legally. Unauthorized access to networks or systems is illegal and unethical. Always ensure you have permission before conducting any security assessments, and abide by applicable laws and regulations.
+
+#### 3. Can I run Kali Nethunter and Termux simultaneously on my Android device?
+
+Yes, you can run both Kali Nethunter and Termux on your Android device simultaneously. Termux provides a terminal emulator environment, while Nethunter offers a full Kali Linux chroot environment. You can switch between the two environments as needed to perform different tasks.
+
+#### 4. I'm encountering errors during the installation process. What should I do?
+
+If you encounter errors during the installation process, first ensure that you have followed all the instructions correctly. If the issue persists, you can search online forums and communities for solutions or reach out to the developers for assistance. Additionally, reviewing the troubleshooting section of the installation guide may provide insights into common issues and their resolutions.
+
+#### 5. Can I use Kali Nethunter without a graphical interface?
+
+Yes, Kali Nethunter can be used without a graphical interface. Many security professionals and enthusiasts prefer to work solely from the command line interface for efficiency and resource optimization. However, if you require a graphical interface for specific tasks or preferences, you can follow the provided instructions to set up XFCE desktop environment and TigerVNC server.
+
+#### 6. Is Kali Nethunter legal to use?
+
+Kali Nethunter itself is a legal tool developed for cybersecurity professionals and enthusiasts for legitimate security testing and research purposes. However, it's essential to use it responsibly and within the confines of the law. Unauthorized use of Nethunter for malicious purposes or without proper authorization can result in legal consequences.
+
+For any additional questions or inquiries, feel free to reach out to the Kali Nethunter community or consult the official documentation.
+
