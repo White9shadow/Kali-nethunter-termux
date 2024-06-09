@@ -95,14 +95,24 @@ If you require a graphical interface, follow these additional steps:
 
 If you encounter the "Process Completed (Signal 9)" error, follow the instructions provided in [this article](https://www.godtspeed.xyz/2024/06/solving-process-completed-signal-9.html?m=1).
 
-*altho if you have problem like nothing to restart / nothing to update than follow this introduction. 
+*If you have problem like nothing to restart / nothing to update than follow this introduction. 
 
    ```bash
    sudo mv /var/lib/dpkg/info /var/lib/dpkg/info_old
+```
+```bash
    sudo mkdir /var/lib/dpkg/info
+```
+```bash
    sudo apt-get update && sudo apt-get -f install
+```
+```bash
    sudo mv /var/lib/dpkg/info/* /var/lib/dpkg/info_old
+```
+```bash
    sudo rm -rf /var/lib/dpkg/info
+```
+```bash
    sudo mv /var/lib/dpkg/info_old /var/lib/dpkg/info
    ```
 
